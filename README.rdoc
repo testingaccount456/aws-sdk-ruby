@@ -18,7 +18,7 @@ Before you can begin, you must sign up for each AWS product you want
 to use. The sample included in the SDK uses Amazon S3, so we'll use
 that product as an example here.
 
-=== To sign up for a product
+=== To Sign Up for a Product
 
 1. Go to the home page for the product, for example
    http://aws.amazon.com/s3.
